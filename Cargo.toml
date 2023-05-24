@@ -1,0 +1,11 @@
+[package]
+name = "cli-panics"
+version = "0.1.0"
+edition = "2021"
+description = "Make your panics easy to read"
+license = "GPL-3.0"
+repository = "https://github.com/mrtnvgr/cli-panics"
+keywords = ["cli", "panic"]
+
+[dependencies]
+log = "0.4.17"
