@@ -6,6 +6,7 @@ description = "Make your panics easy to read"
 license = "GPL-3.0"
 repository = "https://github.com/mrtnvgr/cli-panics"
 keywords = ["cli", "panic"]
+categories = ["rust-patterns"]
 
 [dependencies]
 log = "0.4.17"
