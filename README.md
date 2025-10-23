@@ -1,4 +1,4 @@
-# quiet-panics
+# quiet_panics
 
 Hides debugging information from the user, leaving only the panic message.
 
