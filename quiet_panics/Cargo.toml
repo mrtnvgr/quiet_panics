@@ -1,0 +1,15 @@
+[package]
+name = "quiet_panics"
+version = "0.1.0"
+edition = "2021"
+description = "Make your panics easy to read"
+license = "GPL-3.0"
+repository = "https://github.com/mrtnvgr/quiet_panics"
+keywords = ["cli", "panic"]
+categories = ["rust-patterns"]
+
+[dependencies]
+log = "0.4"
+
+[features]
+panic_payload_as_str = []
