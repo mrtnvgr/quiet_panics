@@ -9,4 +9,4 @@ keywords = ["cli", "panic"]
 categories = ["rust-patterns"]
 
 [dependencies]
-log = "0.4.17"
+log = "0.4"
