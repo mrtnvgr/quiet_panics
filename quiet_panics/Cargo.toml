@@ -1,12 +1,12 @@
 [package]
 name = "quiet_panics"
 version = "0.1.2"
-edition = "2021"
-description = "Make your panics easy to read"
-license = "GPL-3.0"
-repository = "https://github.com/mrtnvgr/quiet_panics"
-keywords = ["cli", "panic"]
-categories = ["rust-patterns"]
+edition.workspace = true
+description.workspace = true
+license.workspace = true
+repository.workspace = true
+keywords.workspace = true
+categories.workspace = true
 
 [dependencies]
 log = "0.4"

@@ -1,7 +1,12 @@
 [package]
 name = "cli-panics"
 version = "0.1.2"
-edition = "2024"
+edition.workspace = true
+description.workspace = true
+license.workspace = true
+repository.workspace = true
+keywords.workspace = true
+categories.workspace = true
 
 [dependencies]
 quiet_panics = { path = "../quiet_panics" }
