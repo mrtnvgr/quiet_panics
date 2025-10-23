@@ -1,6 +1,6 @@
 [package]
 name = "quiet_panics"
-version = "0.1.0"
+version.workspace = true
 edition = "2021"
 description = "Make your panics easy to read"
 license = "GPL-3.0"
