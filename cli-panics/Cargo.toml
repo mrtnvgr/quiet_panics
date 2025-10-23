@@ -9,4 +9,4 @@ keywords.workspace = true
 categories.workspace = true
 
 [dependencies]
-quiet_panics = { path = "../quiet_panics" }
+quiet_panics = { version = "*", path = "../quiet_panics" }
